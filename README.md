@@ -8,10 +8,11 @@
 
 ## 🔬 Research & Expertise
 - 📖 Multimodal Learning & Vision–Language Models  
-- 🔄 Continual / Test-Time Adaptation  
+- 🔄 Sensor & Privacy 
 - 🤝 Federated & Collaborative Learning  
 - 🧠 Trustworthy & Responsible ML  
-- ⚡ Adversarial ML, Privacy & Security  
+- 🔄 Adversarial ML, Privacy & Security
+- ⚡ Medical Imaging 
 
 ---
 
@@ -38,8 +39,16 @@
 - **Research Intern** – MazeGeek Technologies *(2022–2023)*  
 - **Teaching Assistant** – Coding for All Initiative, IUB *(2024)*  
 - **Math Tutor** – Udvash Academic & Admission Care *(2019–2022)*  
-
 ---
+
+## 🛠️ Skills
+- **Programming:** Python, C++, Java  
+- **ML/DL:** PyTorch, TensorFlow, Scikit-Learn, FastAPI  
+- **Tools:** Git, Firebase, AWS, Azure, Oracle, SQL  
+- **Web/App Dev:** HTML, Bootstrap, ASP.Net Core, Android, Swift (iOS)  
+- **Specialized:** Adversarial ML, Federated Learning, Vision-Language Models  
+---
+
 
 ## 📚 Selected Publications
 - *SloMo-Fast: Slow-Momentum and Fast-Adaptive Teachers for Source-Free Continual Test-Time Adaptation* – **Under Review WACV-2026 2025**
@@ -61,31 +70,6 @@
 - 📹 **Multimodal Alignment for Human Activity Recognition**  
 - 🖼️ **Diffusion-based Image Editing with LLaVA + SAM + Stable Diffusion**  
 - 🌐 **Federated Missing Modality Adaptation in LLMs**  
-
----
-
-## 🛠️ Skills
-- **Programming:** Python, C++, Java  
-- **ML/DL:** PyTorch, TensorFlow, Scikit-Learn, FastAPI  
-- **Tools:** Git, Firebase, AWS, Azure, Oracle, SQL  
-- **Web/App Dev:** HTML, Bootstrap, ASP.Net Core, Android, Swift (iOS)  
-- **Specialized:** Adversarial ML, Federated Learning, Vision-Language Models  
-
----
-
-## 🎯 Looking Ahead
-I’m actively seeking **fully-funded M.S./Ph.D. opportunities** in top-tier research labs worldwide.  
-If my research aligns with yours — let’s connect! 🚀  
-
----
-
-## 📫 Connect With Me
-- 🌐 [Portfolio Website](https://mdakilraihaniftee.github.io/)  
-- 🎓 [Google Scholar](https://scholar.google.com/citations?user=x1ueJ5UAAAAJ&hl=en)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/mdakilraihaniftee)  
-- 💻 [GitHub](https://github.com/mdakilraihaniftee)  
-- 📧 Email: iftee1807002@gmail.com  
-
 ---
 
 ✨ *"Advancing AI for trustworthy, adaptive, and collaborative systems."* ✨
