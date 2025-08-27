@@ -15,7 +15,7 @@
 - ⚡ Medical Imaging 
 
 ---
-
+<!--
 ## 🏆 Highlights
 - 📑 **200+ Google Scholar citations** (as of July 2025)  
 - 📝 **FedCTTA** → *Accepted at IJCNN 2025*  
@@ -41,14 +41,6 @@
 - **Math Tutor** – Udvash Academic & Admission Care *(2019–2022)*  
 ---
 
-## 🛠️ Skills
-- **Programming:** Python, C++, Java  
-- **ML/DL:** PyTorch, TensorFlow, Scikit-Learn, FastAPI  
-- **Tools:** Git, Firebase, AWS, Azure, Oracle, SQL  
-- **Web/App Dev:** HTML, Bootstrap, ASP.Net Core, Android, Swift (iOS)  
-- **Specialized:** Adversarial ML, Federated Learning, Vision-Language Models  
----
-
 
 ## 📚 Selected Publications
 - *SloMo-Fast: Slow-Momentum and Fast-Adaptive Teachers for Source-Free Continual Test-Time Adaptation* – **Under Review WACV-2026 2025**
@@ -70,6 +62,16 @@
 - 📹 **Multimodal Alignment for Human Activity Recognition**  
 - 🖼️ **Diffusion-based Image Editing with LLaVA + SAM + Stable Diffusion**  
 - 🌐 **Federated Missing Modality Adaptation in LLMs**  
+---
+
+-->
+
+## 🛠️ Skills
+- **Programming:** Python, C++, Java  
+- **ML/DL:** PyTorch, TensorFlow, Scikit-Learn, FastAPI  
+- **Tools:** Git, Firebase, AWS, Azure, Oracle, SQL  
+- **Web/App Dev:** HTML, Bootstrap, ASP.Net Core, Android, Swift (iOS)  
+- **Specialized:** Adversarial ML, Federated Learning, Vision-Language Models  
 ---
 
 ✨ *"Advancing AI for trustworthy, adaptive, and collaborative systems."* ✨
